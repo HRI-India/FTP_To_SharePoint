@@ -33,4 +33,4 @@ pip install office365-rest-python-client
 
 <h3>Author</h3>
 <p><b>Shrishti Tiwari</b></p>
-<h5>Python & Power BI Developer | Automation Enthusiast</h5>
+<p>Python & Power BI Developer | Automation Enthusiast</p>
