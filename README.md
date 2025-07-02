@@ -11,6 +11,7 @@ This Python script automates the process of downloading files from an FTP server
 <li>Lists and downloads files to a local folder</li>
 <li>Authenticates and uploads the files to a SharePoint or Teams document library</li>
 <li>Displays status messages for each step</li>
+</ul>
 </p>
 
 <h2>Requirements</h2>
