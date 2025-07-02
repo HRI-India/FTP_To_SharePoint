@@ -1,0 +1,61 @@
+Connected to server: 10.0.0.36
+
+Scanning directory: /FGBOM
+Keeping: FG_BOM_1110_01072025_2355.csv (Last Modified: 2025-07-01 19:04:02)
+Summary for /FGBOM: 0 file(s) to delete, 1 file(s) to keep
+Keeping: FG_BOM_1110_30062025_2355.csv (Last Modified: 2025-06-30 19:00:14)
+Summary for /FGBOM: 0 file(s) to delete, 2 file(s) to keep
+Keeping: FG_BOM_1130_01072025_2355.csv (Last Modified: 2025-07-01 18:50:08)
+Summary for /FGBOM: 0 file(s) to delete, 3 file(s) to keep
+Keeping: FG_BOM_1130_30062025_2355.csv (Last Modified: 2025-06-30 18:51:41)
+Summary for /FGBOM: 0 file(s) to delete, 4 file(s) to keep
+Keeping: FG_BOM_1140_01072025_2355.csv (Last Modified: 2025-07-01 19:06:17)
+Summary for /FGBOM: 0 file(s) to delete, 5 file(s) to keep
+Keeping: FG_BOM_1140_30062025_2355.csv (Last Modified: 2025-06-30 19:08:38)
+Summary for /FGBOM: 0 file(s) to delete, 6 file(s) to keep
+Keeping: FG_BOM_1160_01072025_2355.csv (Last Modified: 2025-07-01 18:34:28)
+Summary for /FGBOM: 0 file(s) to delete, 7 file(s) to keep
+Keeping: FG_BOM_1160_30062025_2355.csv (Last Modified: 2025-06-30 18:35:27)
+Summary for /FGBOM: 0 file(s) to delete, 8 file(s) to keep
+
+Scanning directory: /PRODUCTION
+Keeping: Production_Data_01072025_0007.csv (Last Modified: 2025-06-30 18:37:45)
+Summary for /PRODUCTION: 0 file(s) to delete, 1 file(s) to keep
+Keeping: Production_Data_02072025_0005.csv (Last Modified: 2025-07-01 18:35:53)
+Summary for /PRODUCTION: 0 file(s) to delete, 2 file(s) to keep
+
+Scanning directory: /SALES
+Keeping: Sales_Rep_01072025_0005.csv (Last Modified: 2025-06-30 18:37:25)
+Summary for /SALES: 0 file(s) to delete, 1 file(s) to keep
+Keeping: Sales_Rep_02072025_0005.csv (Last Modified: 2025-07-01 18:35:57)
+Summary for /SALES: 0 file(s) to delete, 2 file(s) to keep
+
+Scanning directory: /SALES_STOCK_REP
+Keeping: Opening_Stock_01072025_0052.csv (Last Modified: 2025-06-30 19:23:14)
+Summary for /SALES_STOCK_REP: 0 file(s) to delete, 1 file(s) to keep
+Keeping: Opening_Stock_02072025_0051.csv (Last Modified: 2025-07-01 19:21:52)
+Summary for /SALES_STOCK_REP: 0 file(s) to delete, 2 file(s) to keep
+
+Scanning directory: /SITE_MASTER
+Keeping: Site_Master_01072025_2355.csv (Last Modified: 2025-07-01 18:25:53)
+Summary for /SITE_MASTER: 0 file(s) to delete, 1 file(s) to keep
+Keeping: Site_Master_30062025_2355.csv (Last Modified: 2025-06-30 18:25:53)
+Summary for /SITE_MASTER: 0 file(s) to delete, 2 file(s) to keep
+
+Scanning directory: /STO
+Keeping: STO_Rep_01072025_0005.csv (Last Modified: 2025-06-30 18:35:35)
+Summary for /STO: 0 file(s) to delete, 1 file(s) to keep
+Keeping: STO_Rep_02072025_0005.csv (Last Modified: 2025-07-01 18:35:57)
+Summary for /STO: 0 file(s) to delete, 2 file(s) to keep
+
+Scanning directory: /STO_PENDING
+Keeping: STO_Pending_01072025_1223.csv (Last Modified: 2025-07-01 06:53:34)
+Summary for /STO_PENDING: 0 file(s) to delete, 1 file(s) to keep
+Keeping: STO_Pending_02072025_0005.csv (Last Modified: 2025-07-01 18:35:58)
+Summary for /STO_PENDING: 0 file(s) to delete, 2 file(s) to keep
+
+Scanning directory: /VERDIS
+
+Starting deletion of old files...
+
+FTP connection closed.
