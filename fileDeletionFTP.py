@@ -15,7 +15,7 @@ def log(message):
 # FTP credentials
 FTP_HOST = "10.0.0.36"
 FTP_USER = "newftpuser"
-FTP_PASSWORD = "password123"
+FTP_PASSWORD = " "
 
 if not all([FTP_HOST, FTP_USER, FTP_PASSWORD]):
     log("Error: One or more variables [FTP_HOST, FTP_USER, FTP_PASSWOPD] are not set.")
