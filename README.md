@@ -32,6 +32,6 @@ This Python script automates the process of downloading files from an FTP server
 pip install office365-rest-python-client
 
 <h3>Author</h3>
-<p><b>Shrishti Tiwari</b>
+<p><b>Shrishti Tiwari</b><br>
 Python & Power BI Developer | Automation Enthusiast</p>
 
