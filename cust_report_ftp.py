@@ -7,14 +7,14 @@ from datetime import datetime, timedelta
 # FTP (File Transfer Protocol)
 ftp_host = '10.1.0.37'
 ftp_username = 'azureuser'
-ftp_password = ' '
+ftp_password = 'Ejqkut9p7b!'
 ftp_remote_path = '/sap_auto/cust_brand_wise'
 
 # SharePoint teams
 
 sharepoint_site_url = 'https://hygienic.sharepoint.com/sites/SAPReportViews'
 sharepoint_username = 'shrishti@hriindia.com'
-sharepoint_password = ' '
+sharepoint_password = 'S@04122000'
 sharepoint_folder_url = '/sites/SAPReportViews/Shared Documents/cust_brand_wise_report'
 
 local_download_path = 'downloads'
