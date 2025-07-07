@@ -7,13 +7,13 @@ from datetime import datetime
 # === FTP Configuration ===
 ftp_host = '10.1.0.37'
 ftp_username = 'azureuser'
-ftp_password = 'Ejqkut9p7b!'
+ftp_password = ' '
 ftp_remote_path = '/sap_auto/outstanding'
 
 # === SharePoint Configuration ===
 sharepoint_site_url = 'https://hygienic.sharepoint.com/sites/SAPReportViews'
 sharepoint_username = 'shrishti@hriindia.com'
-sharepoint_password = 'S@04122000'
+sharepoint_password = ' '
 library_name = "Shared Documents"
 folder_root = "SAP Reports"  # Folder inside "Shared Documents"
 
